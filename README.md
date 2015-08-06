@@ -3,13 +3,14 @@ Juegos de damas en C++
 
 MANUAL DE INSTRUCCIONES PARA EJECUTAR "JUEGO DE DAMAS"
 
-1.- Descargar proyecto de gitHub
+1.- Clonar el proyecto con: git clone https://github.com/Software2015/Damas.git
 2.- Dejarlo en el escritorio (o algun lugar facil de recordar)
 3.- Dentro de la carpeta descargada abra otra llamada, "main.cpp"
 4.- Abrir la terminal y ejecutar los siguientes comandos
     - cd Escritorio (en caso de que haya sido guardado en el escritorio)
-    - cd damasVersion1.5
-    - una vez dentro de damasVersion1.5 escribir:
+    - cd Damas
+    -cd damas
+    Luego en la carpeta, colocar:
     - g++ main.cpp -o ejecutable 
     - luego:
     - ./ejecutable
